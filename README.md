@@ -2,7 +2,7 @@
 
  I made this why playing arround `Mangodb` i must say is sweet as it look 
 
-To use this project, you will need to install Mongo in your local machine and make the DB stucture like below 
+To use this project, you will need to install Mongo in your local machine and make the DB stucture look like below.
 happy coding...
 
 ```
